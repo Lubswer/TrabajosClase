@@ -7,7 +7,7 @@ public class Persona {
         this.nombre = nombre;
         this.edad = edad;
         this.pais = pais;
-        this.universidad = universidad;
+        this.universidad =  universidad;
 
     }
     public Persona(){
