@@ -1,4 +1,4 @@
-public class Persona {
+public class Persona { //este es el padre y si uso "final" en medio de public y class no podra heredarse
     String cedula;
     String nombre;
     int edad;
